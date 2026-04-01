@@ -77,22 +77,7 @@ Businesses can leverage these insights to:
 - Interactive Visualizations  
 - KPI Metrics  
 
----
 
-## 📷 Dashboard Preview
-![Dashboard Preview](screenshots/dashboard-overview.png)
-
----
-
-## 📁 Repository Structure
-```
-Smartphone-Sales-Insights-Dashboard
-│── dashboard/
-│   └── Smartphone Sales Dashboard.pbix
-│── screenshots/
-│   └── dashboard-overview.png
-│── README.md
-```
 
 ---
 
